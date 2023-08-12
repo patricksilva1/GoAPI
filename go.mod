@@ -1,4 +1,4 @@
-module nomedoprojeto
+module goapi
 
 go 1.20
 
